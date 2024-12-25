@@ -1,9 +1,11 @@
+![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
 <h1 align="center">Hi 👋, I'm Durgesh Patle</h1>
 <h3 align="center">A Passionate MERN Developer from India</h3>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh-patle&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh-patle" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgesh-patle" alt="durgesh-patle" /></a> </p>
+
 
 - 🔭 I’m currently working on [Udemy](https://github.com/Durgesh-Patle/Udemy-Clone.git)
 
