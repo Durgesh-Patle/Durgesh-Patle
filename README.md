@@ -1,4 +1,4 @@
-![MasterHead](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
+
 <h1 align="center">Hi 👋, I'm Durgesh Patle</h1>
 <h3 align="center">A Passionate MERN Developer from India</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="gif" />
