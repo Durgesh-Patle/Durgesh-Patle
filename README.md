@@ -9,12 +9,14 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
 ---
 
 ## 🚀 Highlights
-- 💼 Dot Net Developer at **Cylsys Software Solutions Pvt. Ltd.**
-- 👨‍💻 1+ Year Hands-on Experience in **.NET Enterprise Applications**
-- 🏗 Built **CRM, Parallel NAV System, Medical Retirement System**
+-  💼 Dot Net Developer at **Cylsys Software Solutions Pvt. Ltd.**
+-  👨‍💻 1+ Year Hands-on Experience in **.NET Enterprise Applications**
+-  🏗 Built **CRM, Parallel NAV System, Medical Retirement System**
 - 🎓 B.Tech CSE (2021–2025) – **CGPA: 7.55**
 - 🏆 Solved **300+ DSA Problems**
-- 🔭 Currently working on **Udemy Clone (MERN Stack)**
+- 💼 **Dot Net Developer** at **Cylsys Software Solutions Pvt. Ltd.**
+- 🚀 Contributing to multiple production-grade **.NET projects.**
+- 🔧 Handling API development, database operations & system enhancements.
 
 ---
 
