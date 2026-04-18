@@ -14,7 +14,6 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
 -  🏗 Built **CRM, Parallel NAV System, Medical Retirement System**
 - 🎓 B.Tech CSE (2021–2025) – **CGPA: 7.55**
 - 🏆 Solved **300+ DSA Problems**
-- 💼 **Dot Net Developer** at **Cylsys Software Solutions Pvt. Ltd.**
 - 🚀 Contributing to multiple production-grade **.NET projects.**
 - 🔧 Handling API development, database operations & system enhancements.
 
